@@ -1,5 +1,5 @@
 <main class="container">
-    <h3 class="center-align"><?php echo $noticia['titulo']?></h3>
+    <h4 class="center-align"><?php echo $noticia['titulo']?></h4>
     <div class="imagenes">
         <div class="row">
             <?php foreach($imagenes as $imagen){?>
